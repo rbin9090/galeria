@@ -4,7 +4,7 @@
 class Galeria
 {
 
-private $imagens =  array('img1.jpeg','img2.jpg','img3.jpg','ok.jpg');
+private $imagens =  array('img1.jpeg','img2.jpg','img3.jpg');
 
 
 public  function PegaFotoAtual()
